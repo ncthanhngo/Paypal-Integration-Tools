@@ -1,0 +1,4 @@
+paypal:
+  client-id:
+  client-secret:
+  mode: sandbox #using for testing and production
