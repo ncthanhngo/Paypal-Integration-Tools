@@ -1,4 +1,4 @@
-# Paypal - integratin Tools
+# Paypal - integration Tools
 
 Payment Integration Tool via Paypal.
 
