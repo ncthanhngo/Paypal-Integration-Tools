@@ -1,5 +1,4 @@
 package org.thanhngo.payment.config;
-
 import com.paypal.base.rest.APIContext;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
